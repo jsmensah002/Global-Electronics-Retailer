@@ -5,8 +5,6 @@ Business Questions:
 
 Tools: Power BI, Microsoft Excel.
 
-Dataset: Available upon request.
-
 Business Answers:
 - The category of products sold by the company are:
     - Audio
